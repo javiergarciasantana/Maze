@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Maze.dir/src/maze_main.cc.o CMakeFiles/Maze.dir/src/bfs.cc.o CMakeFiles/Maze.dir/src/dfs.cc.o -o Maze 
